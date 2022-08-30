@@ -47,9 +47,13 @@ Repo to save study notes/labs related to the CKA certification
 * https://github.com/walidshaari/Kubernetes-Certified-Administrator
 * https://github.com/leandrocostam/cka-preparation-guide
 
+### Courses
+* https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+
 ### Labs/Pratice
 * https://github.com/dgkanatsios/CKAD-exercises
 * https://github.com/bmuschko/cka-study-guide/blob/master/README.adoc
+* https://killer.sh/
 
 ### Others
 * https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/
