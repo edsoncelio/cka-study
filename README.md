@@ -42,9 +42,16 @@ Repo to save study notes/labs related to the CKA certification
 * Troubleshoot cluster component failure
 * Troubleshoot networking
 
-## References
-* https://github.com/bmuschko/cka-study-guide/blob/master/README.adoc
-* https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/
-* https://github.com/dgkanatsios/CKAD-exercises
+## Resources
+### Study paths
 * https://github.com/walidshaari/Kubernetes-Certified-Administrator
 * https://github.com/leandrocostam/cka-preparation-guide
+
+### Labs/Pratice
+* https://github.com/dgkanatsios/CKAD-exercises
+* https://github.com/bmuschko/cka-study-guide/blob/master/README.adoc
+
+### Others
+* https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/
+
+
